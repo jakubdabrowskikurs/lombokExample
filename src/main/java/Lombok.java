@@ -3,7 +3,6 @@ import lombok.*;
 import java.util.Date;
 
 @ToString(callSuper=true, includeFieldNames=false)
-//@ToString
 @AllArgsConstructor
 @RequiredArgsConstructor
 public class Lombok {
